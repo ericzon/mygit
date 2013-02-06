@@ -19,6 +19,7 @@
     <section>
     	<article>
     		He borrado todo - 2
+            <img src="imgs/tentacle.jpg" />
     	</article>	
     </section>
   </div>
