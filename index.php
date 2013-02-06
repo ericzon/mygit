@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-    		He eliminado el js y he puesto este texto - 1
+    		He borrado todo - 2
     	</article>	
     </section>
   </div>
