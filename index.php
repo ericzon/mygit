@@ -18,8 +18,10 @@
     <!-- Page content -->
     <section>
     	<article>
-    		He borrado todo - 2
+    		Estoy en la alternativa y he añadido un par de imágenes más.
             <img src="imgs/tentacle.jpg" />
+            <img src="imgs/ondho_300.jpg" />
+            <img src="imgs/ondho_logo.jpg" />
     	</article>	
     </section>
   </div>
