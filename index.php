@@ -28,7 +28,7 @@
     <!-- Secondary content -->
     
     <?php
-
+		echo 'hola eric';
     ?>
   </aside>
   <footer>
