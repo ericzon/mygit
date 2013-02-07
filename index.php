@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-    		Arreglado el conflicto de Sergi, por fin
+    		Arreglado el conflicto de Sergi, por fin -> No te lo crees ni tu
             <img src="imgs/tentacle.jpg" />
             <img src="imgs/ondho_300.jpg" />
             <img src="imgs/ondho_logo.jpg" />
