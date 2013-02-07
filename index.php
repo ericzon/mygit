@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-    		Reseteo el texto
+    		Reseteo el textosdjklsdjfljsdklfj
             <img src="imgs/tentacle.jpg" />
             <img src="imgs/ondho_300.jpg" />
             <img src="imgs/ondho_logo.jpg" />
