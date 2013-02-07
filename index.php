@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-    		Vamos a ver si Sergi provoca un merge de los buenos - 1
+    		Vamos a ver si Sergi provoca un merge de los buenos - 1ÁVolvemos a la carga
             <img src="imgs/tentacle.jpg" />
             <img src="imgs/ondho_300.jpg" />
             <img src="imgs/ondho_logo.jpg" />
