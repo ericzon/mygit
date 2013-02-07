@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-    		Vuelvo a estar en la principal. Ahora voy a editar el fichero que está en el repo, provocando un merge.
+    		Reseteo el texto
             <img src="imgs/tentacle.jpg" />
             <img src="imgs/ondho_300.jpg" />
             <img src="imgs/ondho_logo.jpg" />
