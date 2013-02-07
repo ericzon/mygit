@@ -18,7 +18,8 @@
     <!-- Page content -->
     <section>
     	<article>
-    		Reseteo            <img src="imgs/tentacle.jpg" />
+    		Vamos a ver si Sergi provoca un merge de los buenos - 1
+            <img src="imgs/tentacle.jpg" />
             <img src="imgs/ondho_300.jpg" />
             <img src="imgs/ondho_logo.jpg" />
     	</article>	
