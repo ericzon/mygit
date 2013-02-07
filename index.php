@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-    		Vamos a ver si Sergi provoca un merge de los malos2 - Volvemos a la carga
+    		Arreglado el conflicto de Sergi, por fin
             <img src="imgs/tentacle.jpg" />
             <img src="imgs/ondho_300.jpg" />
             <img src="imgs/ondho_logo.jpg" />
