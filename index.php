@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-    		Sin conflictos, por fin. Más y más cambios
+    		Arreglado el conflicto de Sergi, por fin?
             <img src="imgs/tentacle.jpg" />
             <img src="imgs/ondho_300.jpg" />
             <img src="imgs/ondho_logo.jpg" />
