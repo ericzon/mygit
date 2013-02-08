@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
     <head>
       <meta charset="utf-8" />
@@ -18,19 +18,14 @@
     <!-- Page content -->
     <section>
     	<article>
-    		Arreglado el conflicto de Sergi, a ver si es verdad, por fin
+  He borrado las 2 imgs de ondho, dejando al tentáculo.
             <img src="imgs/tentacle.jpg" />
-            <img src="imgs/ondho_300.jpg" />
-            <img src="imgs/ondho_logo.jpg" />
     	</article>	
     </section>
   </div>
   <aside role="complementary">
     <!-- Secondary content -->
-    
-    <?php
-		echo 'hola eric';
-    ?>
+ 
   </aside>
   <footer>
     <!-- Footer content -->
