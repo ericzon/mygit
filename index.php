@@ -18,10 +18,8 @@
     <!-- Page content -->
     <section>
     	<article>
-    		Arreglado el conflicto de Sergi, por fin?
+    		He borrado las 2 imgs de ondho, dejando al tentáculo.
             <img src="imgs/tentacle.jpg" />
-            <img src="imgs/ondho_300.jpg" />
-            <img src="imgs/ondho_logo.jpg" />
     	</article>	
     </section>
   </div>
