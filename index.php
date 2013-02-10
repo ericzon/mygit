@@ -10,7 +10,7 @@
     </head>
     <body>
   <header>  
-    <h1>Git Test</h1>
+    <h1>Git Test con Merge</h1>
     <!-- Header content -->
     
   </header>
@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-He borrado las 2 imgs de ondho, dejando al otro
+Vamos a ver que pasa ahora
             <img src="imgs/tentacle.jpg" />
     	</article>	
     </section>
