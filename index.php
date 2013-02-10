@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-sera esta la buena?
+esta es la buena
             <img src="imgs/tentacle.jpg" />
     	</article>	
     </section>
