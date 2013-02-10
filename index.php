@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-esta es la buena
+bueno, seguimos programando....
             <img src="imgs/tentacle.jpg" />
     	</article>	
     </section>
