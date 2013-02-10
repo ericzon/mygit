@@ -3,14 +3,14 @@
     <head>
       <meta charset="utf-8" />
       <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-      <title>MyGit Test</title>
+      <title>MyGit - Otro Test</title>
       <?php
       
       ?>
     </head>
     <body>
   <header>  
-    <h1>Git Test</h1>
+    <h1>Git - Otro Test</h1>
     <!-- Header content -->
     
   </header>

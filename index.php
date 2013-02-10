@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-He borrado las 2 imgs de ondho, dejando al otro
+Se ha añadido otro fichero nuevo
             <img src="imgs/tentacle.jpg" />
     	</article>	
     </section>
