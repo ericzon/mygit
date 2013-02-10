@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-master: segundo commit despues de que se han bifurcado y han seguido trabajando
+causamos conflictos en el master para que al hacer push pete :)
             <img src="imgs/tentacle.jpg" />
     	</article>	
     </section>
