@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-Vamos a ver que pasa ahora
+Vamos a ver que pasa 
             <img src="imgs/tentacle.jpg" />
     	</article>	
     </section>
