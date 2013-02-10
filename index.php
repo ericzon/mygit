@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-veo los conflictos en el remoto y los arreglo, subiendo todos los merges locales
+commit post imgs mergeadas
             <img src="imgs/tentacle.jpg" />
 			<img src="imgs/marcianito.png" />
 			<img src="imgs/robot.gif" />
