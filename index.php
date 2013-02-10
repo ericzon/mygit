@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-seguimos programming
+master: segundo commit despues de que se han bifurcado y han seguido trabajando
             <img src="imgs/tentacle.jpg" />
     	</article>	
     </section>
