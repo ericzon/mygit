@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-ya veo, mas cambios
+esta es la buena
             <img src="imgs/tentacle.jpg" />
     	</article>	
     </section>
