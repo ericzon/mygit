@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-corrijo linea
+linea mergeada
             <img src="imgs/tentacle.jpg" />
     	</article>	
     </section>
