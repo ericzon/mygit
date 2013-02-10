@@ -10,7 +10,7 @@
     </head>
     <body>
   <header>  
-    <h1>Git Test</h1>
+    <h1>Git Test con Merge</h1>
     <!-- Header content -->
     
   </header>
@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-Se ha añadido otro fichero nuevo
+Vamos a ver que pasa 
             <img src="imgs/tentacle.jpg" />
     	</article>	
     </section>
