@@ -18,8 +18,10 @@
     <!-- Page content -->
     <section>
     	<article>
-master: segundo commit despues de que se han bifurcado y han seguido trabajando
+merge enter master y raming, despues de commits y de todo xD
             <img src="imgs/tentacle.jpg" />
+			<img src="imgs/marcianito.png" />
+			<img src="imgs/robot.gif" />
     	</article>	
     </section>
   </div>
