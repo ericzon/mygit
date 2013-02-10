@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-2a bifurcacion
+mas commits y luego una segunda bifurcacion
             <img src="imgs/tentacle.jpg" />
 			<img src="imgs/marcianito.png" />
 			<img src="imgs/robot.gif" />
