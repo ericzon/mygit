@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-mas commits y luego una segunda bifurcacion
+commit en raming2
             <img src="imgs/tentacle.jpg" />
 			<img src="imgs/marcianito.png" />
 			<img src="imgs/robot.gif" />
