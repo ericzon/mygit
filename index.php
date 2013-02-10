@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-linea mergeada
+seguimos programando
             <img src="imgs/tentacle.jpg" />
     	</article>	
     </section>
