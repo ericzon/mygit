@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-commit post imgs mergeadas
+post imgs merge
             <img src="imgs/tentacle.jpg" />
 			<img src="imgs/marcianito.png" />
 			<img src="imgs/robot.gif" />
