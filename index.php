@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-linea parcheada
+line parched
             <img src="imgs/tentacle.jpg" />
 			<img src="imgs/marcianito.png" />
 			<img src="imgs/robot.gif" />
