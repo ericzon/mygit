@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-y ahora?
+y ahora? vienen mas cambios
             <img src="imgs/tentacle.jpg" />
     	</article>	
     </section>
