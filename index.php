@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-seguimos programando
+seguimos programming
             <img src="imgs/tentacle.jpg" />
     	</article>	
     </section>
