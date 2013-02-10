@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-commit en raming
+merge raming y raming2 y me quedo en raming
             <img src="imgs/tentacle.jpg" />
 			<img src="imgs/marcianito.png" />
 			<img src="imgs/robot.gif" />
