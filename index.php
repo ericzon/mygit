@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-y ahora?
+y ahora? pues no sé que vendrá
             <img src="imgs/tentacle.jpg" />
     	</article>	
     </section>
