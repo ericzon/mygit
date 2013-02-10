@@ -18,8 +18,10 @@
     <!-- Page content -->
     <section>
     	<article>
-linea mergeada
+linea parcheada
             <img src="imgs/tentacle.jpg" />
+			<img src="imgs/marcianito.png" />
+			<img src="imgs/robot.gif" />
     	</article>	
     </section>
   </div>
