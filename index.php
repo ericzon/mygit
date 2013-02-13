@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-texto nuevo
+arreglado
             <img src="imgs/tentacle.jpg" />
 			<img src="imgs/marcianito.png" />
 			<img src="imgs/robot.gif" />
