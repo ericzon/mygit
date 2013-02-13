@@ -19,7 +19,11 @@
     <section>
     	<article>
 <<<<<<< HEAD
+<<<<<<< HEAD
 arreglado
+=======
+post imgs merge
+>>>>>>> parent of a1ff16f... otro commit
 =======
 post imgs merge
 >>>>>>> parent of a1ff16f... otro commit
