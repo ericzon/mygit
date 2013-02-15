@@ -18,7 +18,7 @@
     <!-- Page content -->
     <section>
     	<article>
-post cambio
+post cambio2
             <img src="imgs/tentacle.jpg" />
 			<img src="imgs/marcianito.png" />
 			<img src="imgs/robot.gif" />
