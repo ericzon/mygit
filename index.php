@@ -18,7 +18,8 @@
     <!-- Page content -->
     <section>
     	<article>
-post cambio2
+        post imgs merge
+        <p>El grillo ha pasado por aquí...</p>
             <img src="imgs/tentacle.jpg" />
 			<img src="imgs/marcianito.png" />
 			<img src="imgs/robot.gif" />
