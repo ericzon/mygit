@@ -10,7 +10,7 @@
     </head>
     <body>
   <header>  
-    <h1>Git Test con Merge</h1>
+    <h1>Titulo actualizado</h1>
     <!-- Header content -->
     
   </header>
@@ -18,11 +18,11 @@
     <!-- Page content -->
     <section>
     	<article>
-        post imgs merge
-        <p>El grillo ha pasado por aquí...</p>
+          Texto borrado
+          <p>El grillo ha pasado por aquí y por allá también</p>
             <img src="imgs/tentacle.jpg" />
-			<img src="imgs/marcianito.png" />
-			<img src="imgs/robot.gif" />
+			    <img src="imgs/marcianito.png" />
+			    <img src="imgs/robot.gif" />
     	</article>	
     </section>
   </div>
