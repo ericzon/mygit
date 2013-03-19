@@ -19,7 +19,7 @@
     <section>
     	<article>
           Texto borrado
-          <p>El grillo ha pasado por aquí y por allá también</p>
+          <p>Pruebas desde sourcetree</p>
             <img src="imgs/tentacle.jpg" />
 			    <img src="imgs/marcianito.png" />
 			    <img src="imgs/robot.gif" />
