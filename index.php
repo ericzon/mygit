@@ -19,7 +19,7 @@
     <section>
     	<article>
           Texto borrado
-          <p>Pruebas desde sourcetree</p>
+          <p>Pruebas desde sourcetree 2</p>
             <img src="imgs/tentacle.jpg" />
 			    <img src="imgs/marcianito.png" />
 			    <img src="imgs/robot.gif" />
