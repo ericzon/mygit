@@ -1,0 +1,3 @@
+[submodule "mymod"]
+	path = mymod
+	url = https://bitbucket.org/ericzon/mymod1
